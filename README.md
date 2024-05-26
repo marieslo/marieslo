@@ -15,6 +15,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=marieslo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marieslo&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=marieslo&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
