@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=jest,cypress&perline=6" />
 
 ## **Version Control & Collaboration:**
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,jira,confluence,trello&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab" />
 
 ## **Development Tools:**
 <img src="https://skillicons.dev/icons?i=bash,babel,postman&perline=6" />
