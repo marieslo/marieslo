@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
 ## **Frontend:**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,scss,tailwind,bootstrap,vite,nextjs,vue,redux&perline=12" />
