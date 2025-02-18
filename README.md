@@ -1,20 +1,40 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ## **Frontend:**
-<img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,scss,tailwind,bootstrap,vite,nextjs,vue,redux&perline=12" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,scss,tailwind,bootstrap,vite,nextjs,vue,redux&perline=12" />
+</a>
 
 ## **Backend:**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django&perline=6" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&perline=6" />
+</a>
 
 ## **Databases:**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=6" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=6" />
+</a>
 
 ## **DevOps & Hosting:**
-<img src="https://skillicons.dev/icons?i=aws,heroku,vercel,docker&perline=6" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,heroku,vercel,docker&perline=6" />
+</a>
 
 ## **Testing:**
-<img src="https://skillicons.dev/icons?i=jest,cypress&perline=6" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=jest,cypress&perline=6" />
+</a>
 
 ## **Version Control & Collaboration:**
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab" />
+</a>
 
 ## **Development Tools:**
-<img src="https://skillicons.dev/icons?i=bash,babel,postman&perline=6" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bash,babel,postman&perline=6" />
+</a>
