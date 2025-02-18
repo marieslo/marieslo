@@ -1,6 +1,6 @@
 ### <i>Frontend:</i>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,scss,tailwind,bootstrap,vite,nextjs,vue,redux&perline=12" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,scss,tailwind,bootstrap,vite,nextjs,vue,redux&perline=4" />
 </a>
 
 ### <i>Backend:</i>
